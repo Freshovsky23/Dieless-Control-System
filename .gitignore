@@ -1,0 +1,7 @@
+.pio/
+.vscode/
+.clang_tidy
+.pythonenv/
+bin/
+objs/
+*.local
