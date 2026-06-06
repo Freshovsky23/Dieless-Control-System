@@ -10,7 +10,7 @@ Developed under the auspices of the **"CREATIVE" Student Science Club**.
 
 Watch the system in action on YouTube:
 
-[![Dieless Wire Drawing System Demo](https://img.shields.io/badge/YouTube-Video_Demo-red?style=for-the-badge&logo=youtube)](TUTAJ_WKLEISZ_LINK_DO_FILMU_Z_YT)
+[![Dieless Wire Drawing System Demo](https://img.shields.io/badge/YouTube-Video_Demo-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/shorts/0vz2pSPowQI)
 
 *Click the badge above to watch the project implementation and physical mechanical execution details.*
 
